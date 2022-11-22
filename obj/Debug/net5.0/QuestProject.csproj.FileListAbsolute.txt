@@ -1,0 +1,16 @@
+C:\Users\Abigayle Jones\workspace\QuestProject\bin\Debug\net5.0\QuestProject.exe
+C:\Users\Abigayle Jones\workspace\QuestProject\bin\Debug\net5.0\QuestProject.deps.json
+C:\Users\Abigayle Jones\workspace\QuestProject\bin\Debug\net5.0\QuestProject.runtimeconfig.json
+C:\Users\Abigayle Jones\workspace\QuestProject\bin\Debug\net5.0\QuestProject.runtimeconfig.dev.json
+C:\Users\Abigayle Jones\workspace\QuestProject\bin\Debug\net5.0\QuestProject.dll
+C:\Users\Abigayle Jones\workspace\QuestProject\bin\Debug\net5.0\ref\QuestProject.dll
+C:\Users\Abigayle Jones\workspace\QuestProject\bin\Debug\net5.0\QuestProject.pdb
+C:\Users\Abigayle Jones\workspace\QuestProject\obj\Debug\net5.0\QuestProject.csproj.AssemblyReference.cache
+C:\Users\Abigayle Jones\workspace\QuestProject\obj\Debug\net5.0\QuestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abigayle Jones\workspace\QuestProject\obj\Debug\net5.0\QuestProject.AssemblyInfoInputs.cache
+C:\Users\Abigayle Jones\workspace\QuestProject\obj\Debug\net5.0\QuestProject.AssemblyInfo.cs
+C:\Users\Abigayle Jones\workspace\QuestProject\obj\Debug\net5.0\QuestProject.csproj.CoreCompileInputs.cache
+C:\Users\Abigayle Jones\workspace\QuestProject\obj\Debug\net5.0\QuestProject.dll
+C:\Users\Abigayle Jones\workspace\QuestProject\obj\Debug\net5.0\ref\QuestProject.dll
+C:\Users\Abigayle Jones\workspace\QuestProject\obj\Debug\net5.0\QuestProject.pdb
+C:\Users\Abigayle Jones\workspace\QuestProject\obj\Debug\net5.0\QuestProject.genruntimeconfig.cache
